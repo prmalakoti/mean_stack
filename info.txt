@@ -6,3 +6,4 @@ important: nodjes + mysql musyt be installed in your system
 3) npm install --save express mysql body-parser hbs
 4) npm i -g nodemon (package.json)
 5) nodemon script.js
+6) Done
