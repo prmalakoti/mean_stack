@@ -1,5 +1,5 @@
 https://www.edureka.co/blog/node-js-mysql-tutorial/
-important: nodjes + mysql musyt be installed in your system
+important: nodjes + mysql must be installed in your system
 
 1) create project folder
 2) npm init
